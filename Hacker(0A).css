@@ -2,3 +2,16 @@ body{
     background-color: black;
     color: lightgreen;
 }
+a{
+    color: lightgreen;
+    text-decoration: non;
+}
+a:visited{
+    color: cyan;
+}
+a:hover{
+    color: pink;
+}
+a:active{
+    color: purple;
+}

@@ -1,0 +1,4 @@
+Notes/Log/Things to do:
+tmr ask how to make images stay on the same line
+The answer was with table & border=0. The alternate method is using CSS
+maybe replace some of the br intensive sections with the <pre> tag
