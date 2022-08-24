@@ -1,6 +1,15 @@
 body{
     background-color: black;
     color: lightgreen;
+    font-family:'Times New Roman', Times, serif;
+}
+h1{
+    color: lightgreen;
+    font-family:"Bradley Hand ITC", serif;
+    font-weight:200;
+}
+h2{
+    color: lightgreen;
     font-family:"Bradley Hand ITC", serif;
     font-weight:200;
 }
