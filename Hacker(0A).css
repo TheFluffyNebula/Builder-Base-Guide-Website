@@ -1,6 +1,8 @@
 body{
     background-color: black;
     color: lightgreen;
+    font-family:"Bradley Hand ITC", serif;
+    font-weight:200;
 }
 a{
     color: lightgreen;
